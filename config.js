@@ -1,0 +1,1 @@
+exports.secretKey = 'mysecret2216';
